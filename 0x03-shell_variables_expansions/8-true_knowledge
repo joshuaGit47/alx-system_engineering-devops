@@ -1,2 +1,2 @@
 #!/bin/bsah
-echo $((128+$TRUEKNOWLEDGE))
+echo $((128 + $TRUEKNOWLEDGE))
